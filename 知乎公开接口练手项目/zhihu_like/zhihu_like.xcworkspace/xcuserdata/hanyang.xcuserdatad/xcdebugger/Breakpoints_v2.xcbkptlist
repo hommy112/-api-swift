@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "561A0348-11E6-4992-BE53-8D76E8B03296"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73D4E4FB-4221-4025-9072-8FB40B2FCF57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "zhihu_like/supporting files/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "didReceive(_:target:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73D4E4FB-4221-4025-9072-8FB40B2FCF57 - 32896bd0f92dda61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in zhihu_like.ViewController.(requestData in _563EFECA34D3621DFB2D3CC3E434E953)() -&gt; ()"
+                  moduleName = "zhihu_like"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanyang/XcodeProjects/zhihu_like/zhihu_like/supporting%20files/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "299">
+               </Location>
+               <Location
+                  uuid = "73D4E4FB-4221-4025-9072-8FB40B2FCF57 - 32896bd0f92dda61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in zhihu_like.ViewController.(requestData in _563EFECA34D3621DFB2D3CC3E434E953)() -&gt; ()"
+                  moduleName = "zhihu_like"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanyang/XcodeProjects/zhihu_like/zhihu_like/supporting%20files/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
